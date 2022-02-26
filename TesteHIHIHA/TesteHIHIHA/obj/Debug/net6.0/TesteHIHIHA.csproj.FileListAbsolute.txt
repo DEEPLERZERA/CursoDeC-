@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\bin\Debug\net6.0\TesteHIHIHA.exe
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\bin\Debug\net6.0\TesteHIHIHA.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\bin\Debug\net6.0\TesteHIHIHA.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\bin\Debug\net6.0\TesteHIHIHA.dll
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\bin\Debug\net6.0\TesteHIHIHA.pdb
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.dll
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\refint\TesteHIHIHA.dll
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.pdb
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\TesteHIHIHA.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\TesteHIHIHA\TesteHIHIHA\obj\Debug\net6.0\ref\TesteHIHIHA.dll
