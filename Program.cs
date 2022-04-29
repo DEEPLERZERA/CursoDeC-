@@ -36,6 +36,8 @@ namespace ConsoleApplication1
       Console.WriteLine(velocidadeF1);
       Console.WriteLine(pibAmericano);
       Console.WriteLine(teveAulaSabado);
+     
+      
 
       Console.WriteLine(segundaGuerraMundial is int);  //Retorna valor boolean caso condição seja real
 
