@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\bin\Debug\net6.0\10-While.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\bin\Debug\net6.0\10-While.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\bin\Debug\net6.0\10-While.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\bin\Debug\net6.0\10-While.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\bin\Debug\net6.0\10-While.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\refint\10-While.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\10-While.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\10-While\obj\Debug\net6.0\ref\10-While.dll

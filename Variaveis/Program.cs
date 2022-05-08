@@ -1,5 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using System.Runtime.Intrinsics.X86;
+﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("#########################################");
 
 Console.WriteLine("Bem vindo ao programa de soma" .ToUpper());
@@ -14,4 +13,5 @@ Console.WriteLine($"A soma de x + y é {d}");
 Console.WriteLine("x exponencial = " + r);
 Console.WriteLine("Raiz de 16 = " + raiz);
 Console.WriteLine("Resto da divisao = " + t);
+
 

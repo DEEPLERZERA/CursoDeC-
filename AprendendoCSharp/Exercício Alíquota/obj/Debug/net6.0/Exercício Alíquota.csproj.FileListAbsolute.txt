@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\bin\Debug\net6.0\Exercício Alíquota.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\bin\Debug\net6.0\Exercício Alíquota.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\bin\Debug\net6.0\Exercício Alíquota.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\bin\Debug\net6.0\Exercício Alíquota.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\bin\Debug\net6.0\Exercício Alíquota.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\refint\Exercício Alíquota.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\Exercício Alíquota.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\Exercício Alíquota\obj\Debug\net6.0\ref\Exercício Alíquota.dll

@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\bin\Debug\net6.0\3-PontosFlutuantes.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\bin\Debug\net6.0\3-PontosFlutuantes.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\bin\Debug\net6.0\3-PontosFlutuantes.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\bin\Debug\net6.0\3-PontosFlutuantes.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\bin\Debug\net6.0\3-PontosFlutuantes.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\refint\3-PontosFlutuantes.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\3-PontosFlutuantes.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\3-PontosFlutuantes\obj\Debug\net6.0\ref\3-PontosFlutuantes.dll

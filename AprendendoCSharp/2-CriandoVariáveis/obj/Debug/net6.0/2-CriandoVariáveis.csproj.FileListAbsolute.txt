@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\net6.0\2-CriandoVariáveis.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\net6.0\2-CriandoVariáveis.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\net6.0\2-CriandoVariáveis.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\net6.0\2-CriandoVariáveis.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\net6.0\2-CriandoVariáveis.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\refint\2-CriandoVariáveis.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\2-CriandoVariáveis.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\net6.0\ref\2-CriandoVariáveis.dll
