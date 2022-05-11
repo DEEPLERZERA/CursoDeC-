@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\bin\Debug\net6.0\13-Break.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\bin\Debug\net6.0\13-Break.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\bin\Debug\net6.0\13-Break.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\bin\Debug\net6.0\13-Break.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\bin\Debug\net6.0\13-Break.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\refint\13-Break.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\13-Break.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\13-Break\obj\Debug\net6.0\ref\13-Break.dll

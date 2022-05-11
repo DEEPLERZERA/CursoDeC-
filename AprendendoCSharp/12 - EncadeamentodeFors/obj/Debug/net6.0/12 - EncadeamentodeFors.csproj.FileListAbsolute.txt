@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\bin\Debug\net6.0\12 - EncadeamentodeFors.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\bin\Debug\net6.0\12 - EncadeamentodeFors.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\bin\Debug\net6.0\12 - EncadeamentodeFors.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\bin\Debug\net6.0\12 - EncadeamentodeFors.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\bin\Debug\net6.0\12 - EncadeamentodeFors.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\refint\12 - EncadeamentodeFors.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\12 - EncadeamentodeFors.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\12 - EncadeamentodeFors\obj\Debug\net6.0\ref\12 - EncadeamentodeFors.dll

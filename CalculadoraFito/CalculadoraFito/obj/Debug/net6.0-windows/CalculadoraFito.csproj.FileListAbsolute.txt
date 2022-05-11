@@ -1,0 +1,17 @@
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\bin\Debug\net6.0-windows\CalculadoraFito.exe
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\bin\Debug\net6.0-windows\CalculadoraFito.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\bin\Debug\net6.0-windows\CalculadoraFito.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\bin\Debug\net6.0-windows\CalculadoraFito.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\bin\Debug\net6.0-windows\CalculadoraFito.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\refint\CalculadoraFito.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\ref\CalculadoraFito.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.R5.resources

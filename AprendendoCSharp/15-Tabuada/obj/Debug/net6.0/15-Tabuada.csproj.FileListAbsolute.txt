@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\bin\Debug\net6.0\15-Tabuada.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\bin\Debug\net6.0\15-Tabuada.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\bin\Debug\net6.0\15-Tabuada.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\bin\Debug\net6.0\15-Tabuada.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\bin\Debug\net6.0\15-Tabuada.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\refint\15-Tabuada.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\15-Tabuada.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\15-Tabuada\obj\Debug\net6.0\ref\15-Tabuada.dll

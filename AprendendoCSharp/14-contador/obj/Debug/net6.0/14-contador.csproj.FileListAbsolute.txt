@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\bin\Debug\net6.0\14-contador.exe
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\bin\Debug\net6.0\14-contador.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\bin\Debug\net6.0\14-contador.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\bin\Debug\net6.0\14-contador.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\bin\Debug\net6.0\14-contador.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\refint\14-contador.dll
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.pdb
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\14-contador.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\AprendendoCSharp\14-contador\obj\Debug\net6.0\ref\14-contador.dll
