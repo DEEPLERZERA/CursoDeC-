@@ -1,0 +1,17 @@
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\bin\Debug\net6.0-windows\CalculadoraFito2.exe
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\bin\Debug\net6.0-windows\CalculadoraFito2.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\bin\Debug\net6.0-windows\CalculadoraFito2.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\bin\Debug\net6.0-windows\CalculadoraFito2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\bin\Debug\net6.0-windows\CalculadoraFito2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.CalculadoraFito.resources
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\refint\CalculadoraFito2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\CalculadoraFito2.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito2\CalculadoraFito2\obj\Debug\net6.0-windows\ref\CalculadoraFito2.dll

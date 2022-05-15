@@ -15,3 +15,4 @@ C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\ne
 C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.genruntimeconfig.cache
 C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\ref\CalculadoraFito.dll
 C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.R5.resources
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraFito\CalculadoraFito\obj\Debug\net6.0-windows\CalculadoraFito.Properties.Resources.resources
