@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\bin\Debug\net6.0\Contacorrente2.exe
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\bin\Debug\net6.0\Contacorrente2.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\bin\Debug\net6.0\Contacorrente2.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\bin\Debug\net6.0\Contacorrente2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\bin\Debug\net6.0\Contacorrente2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\refint\Contacorrente2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\Contacorrente2.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\Contacorrente2\obj\Debug\net6.0\ref\Contacorrente2.dll

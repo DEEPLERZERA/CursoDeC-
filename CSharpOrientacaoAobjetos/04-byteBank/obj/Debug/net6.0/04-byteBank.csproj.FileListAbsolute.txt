@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\bin\Debug\net6.0\04-byteBank.exe
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\bin\Debug\net6.0\04-byteBank.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\bin\Debug\net6.0\04-byteBank.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\bin\Debug\net6.0\04-byteBank.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\bin\Debug\net6.0\04-byteBank.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\refint\04-byteBank.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\04-byteBank.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\04-byteBank\obj\Debug\net6.0\ref\04-byteBank.dll

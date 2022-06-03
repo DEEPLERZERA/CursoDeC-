@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\bin\Debug\net6.0\CalculadoraDePa2.exe
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\bin\Debug\net6.0\CalculadoraDePa2.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\bin\Debug\net6.0\CalculadoraDePa2.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\bin\Debug\net6.0\CalculadoraDePa2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\bin\Debug\net6.0\CalculadoraDePa2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\refint\CalculadoraDePa2.dll
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\CalculadoraDePa2.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CalculadoraDePa2\CalculadoraDePa2\obj\Debug\net6.0\ref\CalculadoraDePa2.dll

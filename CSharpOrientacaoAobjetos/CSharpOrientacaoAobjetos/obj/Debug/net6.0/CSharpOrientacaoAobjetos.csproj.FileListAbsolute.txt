@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\bin\Debug\net6.0\CSharpOrientacaoAobjetos.exe
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\bin\Debug\net6.0\CSharpOrientacaoAobjetos.deps.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\bin\Debug\net6.0\CSharpOrientacaoAobjetos.runtimeconfig.json
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\bin\Debug\net6.0\CSharpOrientacaoAobjetos.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\bin\Debug\net6.0\CSharpOrientacaoAobjetos.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.AssemblyInfo.cs
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\refint\CSharpOrientacaoAobjetos.dll
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.pdb
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\CSharpOrientacaoAobjetos.genruntimeconfig.cache
+C:\Users\Pichau\Documents\CursoDeC#\CSharpOrientacaoAobjetos\CSharpOrientacaoAobjetos\obj\Debug\net6.0\ref\CSharpOrientacaoAobjetos.dll
